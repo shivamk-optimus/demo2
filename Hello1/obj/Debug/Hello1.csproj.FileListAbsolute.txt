@@ -1,0 +1,6 @@
+C:\Users\shivam.khanna\source\repos\Hello1\Hello1\bin\Debug\Hello1.exe.config
+C:\Users\shivam.khanna\source\repos\Hello1\Hello1\bin\Debug\Hello1.exe
+C:\Users\shivam.khanna\source\repos\Hello1\Hello1\bin\Debug\Hello1.pdb
+C:\Users\shivam.khanna\source\repos\Hello1\Hello1\obj\Debug\Hello1.csproj.CoreCompileInputs.cache
+C:\Users\shivam.khanna\source\repos\Hello1\Hello1\obj\Debug\Hello1.exe
+C:\Users\shivam.khanna\source\repos\Hello1\Hello1\obj\Debug\Hello1.pdb
